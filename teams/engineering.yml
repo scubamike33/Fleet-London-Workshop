@@ -40,5 +40,6 @@ team_settings:
       enable_failing_policies_webhook: true
       destination_url: https://example.org/webhook_handler
       host_batch_size: 0
-      policy_ids:
+      policy_ids: 
+        - 201
 software:
